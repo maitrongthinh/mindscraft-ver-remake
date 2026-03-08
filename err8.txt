@@ -1,0 +1,30 @@
+﻿node : Error with 
+embedding model, using 
+word-overlap instead.
+At line:1 char:1
++ node src/process/init
+_agent.js -n andy -p 
+8081 2> err.txt ; node 
+-e " ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (Error with em   
+ be...verlap instea    
+d.:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+Error with embedding 
+model, using 
+word-overlap instead.
+Error with embedding 
+model, using 
+word-overlap instead.
+[LoginGuard] Network 
+Error: Connection 
+timed out or was lost.
